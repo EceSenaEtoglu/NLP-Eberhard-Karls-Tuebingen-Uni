@@ -1,6 +1,4 @@
-**First graded assignment to get familiar with frameworks.**
-## Task
-**Perform Text Classification**
+**First graded assignment to get familiar with frameworks. Task : Perform Text Classification**
 
 ## Project Overview
 
